@@ -1,0 +1,40 @@
+{
+    "speakers":[
+        {
+            "itemId": "ZLX15BT",
+            "brand": "Electro-Voice",
+            "peak": 1000,
+            "program": 500,
+            "powered":true,
+            "subwoofer": false
+        },
+        {
+            "itemId": "TX310",
+            "brand": "Alto",
+            "peak": 350,
+            "program": 175,
+            "powered":true,
+            "subwoofer": false
+        }
+    ],
+    "amplifiers":[
+        {
+            "itemId": "NX46000",
+            "brand": "Behringer",
+            "channels": 4,
+            "8ohm": 440,
+            "4ohm": 860,
+            "2ohm": 1600,
+            "bridged": 3000
+        },
+        {
+            "itemId": "XLI1500",
+            "brand": "Crown",
+            "channels": 2,
+            "8ohm": 350,
+            "4ohm": 450,
+            "2ohm": null,
+            "bridged": 900
+        }
+    ]
+}
