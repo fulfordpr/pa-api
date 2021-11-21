@@ -5,6 +5,7 @@
             "brand": "Electro-Voice",
             "peak": 1000,
             "program": 500,
+            "spl":127,
             "powered":true,
             "subwoofer": false
         },
@@ -13,6 +14,7 @@
             "brand": "Alto",
             "peak": 350,
             "program": 175,
+            "spl": 116,
             "powered":true,
             "subwoofer": false
         }
