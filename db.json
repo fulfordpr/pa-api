@@ -1,24 +1,32 @@
 {
     "speakers":[
         {
-            "itemId": "ZLX15BT",
-            "brand": "Electro-Voice",
-            "peak": 1000,
-            "program": 500,
-            "spl":127,
-            "powered":true,
+            "itemId": "8124",
+            "brand": "JBL",
+            "peak": 20,
+            "program": "NA",
+            "spl":101,
+            "powered": false,
+            "ohms": 8,
+            "horizonalAngle": 130;
+            "size":4,
             "subwoofer": false
         },
         {
-            "itemId": "TX310",
-            "brand": "Alto",
-            "peak": 350,
-            "program": 175,
-            "spl": 116,
-            "powered":true,
+            "itemId": "Control24CM",
+            "brand": "JBL",
+            "peak": 30,
+            "program": "NA",
+            "spl":86,
+            "powered": false,
+            "ohms": 8,
+            "horizonalAngle": 130;
+            "size":4,
             "subwoofer": false
-        }
+        },
     ],
+    
+    
     "amplifiers":[
         {
             "itemId": "NX46000",
